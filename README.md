@@ -15,4 +15,6 @@ npm run dev
 
 
 Live Preview
-Check out the live preview of your project at https://my-book-editor.vercel.app/
+Check out the live preview of your project at 
+
+https://my-book-editor.vercel.app/
