@@ -13,8 +13,9 @@ npm install
 
 npm run dev
 
+```
 
 Live Preview
-Check out the live preview of your project at 
+Check out the live preview of project at 
 
-https://my-book-editor.vercel.app/
+[https://my-book-editor.vercel.app/]
